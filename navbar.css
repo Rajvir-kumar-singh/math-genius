@@ -1,0 +1,195 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.logo {
+    height: 65px;
+    width: 180px;
+    font-size: xx-large;
+    text-decoration: solid;
+    background-color: #132c33;
+    position: relative;
+    color: white;
+    text-align: center;
+    z-index: 40;
+}
+.logo:hover {
+    color: cadetblue;
+    transition: 0.1s;
+}
+
+.Home {
+    position: relative;
+    left: 180px;
+    bottom: 65px;
+    height: 65px;
+    width: 100px;
+    background-color: #132c33;
+    color: #255766;
+    font-size: large;
+    z-index: 40;
+}
+.Home:hover {
+    color: #132c33;
+    background-color: #255766;
+    transition: 0.2s;
+}
+
+.questions {
+    position: relative;
+    left: 175px;
+    bottom: 76px;
+    height: 65px;
+    width: 100px;
+    background-color: #132c33;
+    color: #255766;
+    font-size: large;
+    z-index: 40;
+}
+.questions:hover {
+    color: #132c33;
+    background-color: #255766;
+    transition: 0.2s;
+}
+
+.Learn {
+    position: relative;
+    left: 170px;
+    bottom: 76px;
+    height: 65px;
+    width: 100px;
+    background-color: #132c33;
+    color: #255766;
+    font-size: large;
+    z-index: 40;
+}
+.Learn:hover {
+    color: #132c33;
+    background-color: #255766;
+    transition: 0.2s;
+}
+
+.About {
+    position: relative;
+    left: 165px;
+    bottom: 65px;
+    height: 65px;
+    width: 100px;
+    background-color: #132c33;
+    color: #255766;
+    font-size: large;
+    z-index: 40;
+}
+.About:hover {
+    color: #132c33;
+    background-color: #255766;
+    transition: 0.2s;
+}
+
+.mathgen {
+    color: blue;
+    background-color: rgb(0, 140, 255);
+    position: relative;
+    bottom: 108px;
+    height: 400px;
+    width: 1345px;
+    text-align: center;
+}
+.mat {
+    position: relative;
+    top: 150px;
+    font-style: italic;
+    font-family: cursive;
+    font: bold;
+    font-size: xx-large;
+}
+.meta {
+    font-size: xxx-large;
+}
+
+.download {
+    position: relative;
+    left: 1000px;
+    bottom: 90px;
+}
+.widebook {
+    color: rgb(0, 140, 255);
+    position: relative;
+    top: 19px;
+    left: 60px;
+}
+.widebookdiv {
+    width: 1020px;
+}
+
+.download1 {
+    position: relative;
+    left: 60px
+}
+.tricks {
+    color: rgb(0, 140, 255);
+    position: relative;
+    bottom: 150px;
+    left: 750px;
+}
+.tricksdiv {
+    width: 1020px;
+}
+
+.end {
+    background-color: rgb(0, 140, 255);
+    height: 300px;
+    text-align: center;
+}
+
+.edsecure {
+    height: 50px;
+    background-color: aqua;
+    border: 0.5px #255766 solid;
+}
+.edsecure:hover {
+    word-spacing: 1px;
+}
+.alreadyhave {
+    position: relative;
+    top: 20px;
+}
+
+.googlemeets {
+    height: 50px;
+    width: 237px;
+    background-color: aqua;
+    border: 0.5px #255766 solid;
+}
+.googlemeets:hover {
+    word-spacing: 1px;
+    width: 243px;
+}
+.googlemeet {
+    position: relative;
+    top: 40px;
+}
+
+.img {
+    width: 768px;
+    height: 65px;
+    position: relative;
+    bottom: 1165px;
+    left: 577px;
+}
+
+.videos {
+    height: 50px;
+    width: 237px;
+    background-color: aqua;
+    border: 0.5px #255766 solid;
+}
+.videos:hover {
+    word-spacing: 1px;
+    width: 243px;
+}
+.videoturtorials {
+    position: relative;
+    top: 60px;
+}
